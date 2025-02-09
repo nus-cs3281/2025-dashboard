@@ -1,2 +1,7 @@
-Repository's Location,Branch,File formats,Find Previous Authors,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,File Size Limit,Ignore File Size Limit,Skip Ignored File Analysis
-https://github.com/reposense/RepoSense.git,master,,,,,,,,,,
+Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commits List,Ignore Authors List,Shallow Cloning,Find Previous Authors
+https://github.com/markbind/markbind.git,master,java;js;css;json;md;mbd;mbdf;njk;py;vue;yml,package-lock.json;test/functional/test_site/expected/**;test/functional/test_site_algolia_plugin/expected/**;test/functional/test_site_convert/expected/**;test/functional/test_site_expressive_layout/expected/**;test/functional/test_site_special_tags/expected/**;test/functional/test_site_templates/expected/**;test/functional/test_site/expected/**;test/functional/test_site/expected/**,Yes,,,,
+https://github.com/reposense/reposense.git,master,java;js;scss;json;md;py;pug;gradle;sh;yml,src/systemtest/resources/**,Yes,,,,
+https://github.com/se-edu/addressbook-level3.git,master,java;js;css;adoc;fxml;gradle,,Yes,,,,
+https://github.com/TEAMMATES/teammates.git,master,java;js;scss;md;py;tag;html;ts,,Yes,,,,
+https://github.com/CATcher-org/CATcher.git,master,js;css;html;ts,,Yes,,,,
+https://github.com/CATcher-org/WATcher.git,main,js;css;html;ts,,Yes,,,,
